@@ -1,5 +1,4 @@
 {
-  "_id" : ObjectId("5d4ff3375a475157ccc202b7"),
         "bpaTrackingId" : "c1234-d1224-k2345",
         "workflowId" : "hc1234",
         "incomingPayload": "abcde",
