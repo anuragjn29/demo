@@ -1,11 +1,8 @@
 {
         "bpaTrackingId" : "c1234-d1224-k2345",
-        "workflowId" : "hc1234",
         "incomingPayload": "abcde",
         "currentMilestone": "precheck",
         "orderStatus": "completed",
-        "ciqId" : "79684",
-        "techAddType" : "0445",
         "history" : [
                 {
                          "milestoneStatus": "In-progress",
